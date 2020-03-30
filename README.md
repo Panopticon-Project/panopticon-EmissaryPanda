@@ -17,3 +17,5 @@ https://www.securityweek.com/chinas-apt27-hackers-use-array-tools-recent-attacks
 https://securityaffairs.co/wordpress/99977/apt/apt27-abusing-covid-19.html - attribution may be weak
 
 https://www.securityweek.com/china-linked-apt-hackers-launch-coronavirus-themed-attacks?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Securityweek+%28SecurityWeek+RSS+Feed%29
+
+https://blog.team-cymru.com/2020/03/25/how-the-iranian-cyber-security-agency-detects-emissary-panda-malware/
