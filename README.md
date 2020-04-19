@@ -19,3 +19,5 @@ https://securityaffairs.co/wordpress/99977/apt/apt27-abusing-covid-19.html - att
 https://www.securityweek.com/china-linked-apt-hackers-launch-coronavirus-themed-attacks?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Securityweek+%28SecurityWeek+RSS+Feed%29
 
 https://blog.team-cymru.com/2020/03/25/how-the-iranian-cyber-security-agency-detects-emissary-panda-malware/
+
+https://marcoramilli.com/2020/03/19/is-apt27-abusing-covid-19-to-attack-people/
