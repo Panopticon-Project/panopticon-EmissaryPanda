@@ -21,3 +21,7 @@ https://www.securityweek.com/china-linked-apt-hackers-launch-coronavirus-themed-
 https://blog.team-cymru.com/2020/03/25/how-the-iranian-cyber-security-agency-detects-emissary-panda-malware/
 
 https://marcoramilli.com/2020/03/19/is-apt27-abusing-covid-19-to-attack-people/
+
+https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-desktop/ - unsure on attribution
+
+https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/ - unsure on attrib
