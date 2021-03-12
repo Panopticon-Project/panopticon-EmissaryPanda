@@ -27,3 +27,5 @@ https://www.welivesecurity.com/2020/12/10/luckymouse-ta428-compromise-able-deskt
 https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/ - unsure on attrib
 
 https://threatpost.com/ransomware-major-gaming-companies-apt27/162735/
+
+https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-exchange-vulnerabilities
