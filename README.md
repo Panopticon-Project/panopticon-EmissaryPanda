@@ -33,3 +33,5 @@ https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-e
 https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html
 
 https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html?utm_source=social_share
+
+https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
