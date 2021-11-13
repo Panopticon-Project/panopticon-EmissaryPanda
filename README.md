@@ -16,7 +16,7 @@ https://www.securityweek.com/chinas-apt27-hackers-use-array-tools-recent-attacks
 
 https://securityaffairs.co/wordpress/99977/apt/apt27-abusing-covid-19.html - attribution may be weak
 
-https://www.securityweek.com/china-linked-apt-hackers-launch-coronavirus-themed-attacks?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Securityweek+%28SecurityWeek+RSS+Feed%29
+https://www.securityweek.com/china-linked-apt-hackers-launch-coronavirus-themed-attacks
 
 https://blog.team-cymru.com/2020/03/25/how-the-iranian-cyber-security-agency-detects-emissary-panda-malware/
 
@@ -32,8 +32,9 @@ https://www.securityweek.com/least-10-threat-actors-targeting-recent-microsoft-e
 
 https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html
 
-https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html?utm_source=social_share
+https://thehackernews.com/2021/04/luckymouse-hackers-target-banks.html
 
+https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
 https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
 
 https://www.bleepingcomputer.com/news/security/state-hackers-breach-defense-energy-healthcare-orgs-worldwide/
