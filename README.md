@@ -38,3 +38,5 @@ https://unit42.paloaltonetworks.com/manageengine-godzilla-nglite-kdcsponge/
 https://cybernews.com/security/10-apt-groups-that-joined-the-ms-exchange-exploitation-party/
 
 https://www.bleepingcomputer.com/news/security/state-hackers-breach-defense-energy-healthcare-orgs-worldwide/
+
+https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf
